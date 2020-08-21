@@ -10,7 +10,7 @@ using System.Web.Script.Serialization;
 namespace AngularJs
 {
 
-    [WebService(Namespace = "http://tempuri.org/")]
+    [WebService(Namespace = "http://tempuri.org/")] 
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     [System.Web.Script.Services.ScriptService]
